@@ -1,2 +1,1 @@
-┌──(root㉿cloudffa)-[~]
-└─$ 
+[cloudfffa@fedora ~]$ 
